@@ -10,3 +10,19 @@ https://leetcode.com/explore/learn/
 ## Array101
 https://leetcode.com/explore/learn/card/fun-with-arrays/
 
+## Array and String
+## Linked List
+## Queue & Stack
+## Heap
+## Binary Tree
+## Hash Table
+## Trie
+## Binary Search Tree
+## Dynamic Programming
+## N-ary Tree
+## Decision Tree
+## Graph
+## Recursion 1
+## Recursion 2
+## Binary Search
+## Machine Learning 101
