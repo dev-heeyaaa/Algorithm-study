@@ -2,44 +2,48 @@
 
 실력 향상을 위한 알고리즘 스터디
 
-https://inner-game.tistory.com/666
+## 알고리즘 사이트 
 
-https://neetcode.io/practice
+### [LeetCode] (https://leetcode.com/explore/learn/)
 
-https://leetcode.com/explore/learn/
+### [NeetCode] (https://neetcode.io/practice)
 
-## Array101
 
-https://leetcode.com/explore/learn/card/fun-with-arrays/
+# 알고리즘 스터디 진행 방식
+1. 이틀에 문제 하나씩 풀기
 
-## Array and String
+# 진행 순서
 
-## Linked List
+## [Array101] (https://leetcode.com/explore/learn/card/fun-with-arrays/)
 
-## Queue & Stack
+## [Array and String] (https://leetcode.com/explore/learn/card/array-and-string/)
 
-## Heap
+## [Linked List] (https://leetcode.com/explore/learn/card/linked-list/)
 
-## Binary Tree
+## [Queue & Stack] (https://leetcode.com/explore/learn/card/queue-stack/)
 
-## Hash Table
+## [Heap] (https://leetcode.com/explore/learn/card/heap/)
 
-## Trie
+## [Binary Tree] (https://leetcode.com/explore/learn/card/data-structure-tree/)
 
-## Binary Search Tree
+## [Hash Table] (https://leetcode.com/explore/learn/card/hash-table/)
 
-## Dynamic Programming
+## [Trie] (https://leetcode.com/explore/learn/card/trie/)
 
-## N-ary Tree
+## [Binary Search Tree] (https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 
-## Decision Tree
+## [Dynamic Programming] (https://leetcode.com/explore/learn/card/dynamic-programming/)
 
-## Graph
+## [N-ary Tree] (https://leetcode.com/explore/learn/card/n-ary-tree/)
 
-## Recursion 1
+## [Decision Tree] (https://leetcode.com/explore/learn/card/decision-tree/)
 
-## Recursion 2
+## [Graph] (https://leetcode.com/explore/learn/card/graph/)
 
-## Binary Search
+## [Recursion 1] (https://leetcode.com/explore/learn/card/recursion-i/)
 
-## Machine Learning 101
+## [Recursion 2] (https://leetcode.com/explore/learn/card/recursion-ii/)
+
+## [Binary Search] (https://leetcode.com/explore/learn/card/binary-search/)
+
+## [Machine Learning 101] (https://leetcode.com/explore/learn/card/machine-learning-101/)
